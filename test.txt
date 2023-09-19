@@ -1,1 +1,16 @@
 Hello World!
+
+// If it is a new project
+git init
+
+// After init add the below command (With our github link).
+git remote add origin https://github.com/bn-madhu/dummyTest.git
+
+//
+git add .
+
+//
+git commit -m ""
+
+//first time only , after that git push is good
+git push -u origin master
